@@ -1,0 +1,28 @@
+D:\oop\курсач\oopCourse\bin\Debug\oopCourse.exe.config
+D:\oop\курсач\oopCourse\bin\Debug\oopCourse.exe
+D:\oop\курсач\oopCourse\bin\Debug\oopCourse.pdb
+D:\oop\курсач\oopCourse\obj\Debug\oopCourse.csproj.AssemblyReference.cache
+D:\oop\курсач\oopCourse\obj\Debug\oopCourse.csproj.CoreCompileInputs.cache
+D:\oop\курсач\oopCourse\obj\Debug\oopCourse.exe
+D:\oop\курсач\oopCourse\obj\Debug\oopCourse.pdb
+D:\oop\курсач\oopCourse — копия\bin\Debug\oopCourse.exe.config
+D:\oop\курсач\oopCourse — копия\bin\Debug\oopCourse.exe
+D:\oop\курсач\oopCourse — копия\bin\Debug\oopCourse.pdb
+D:\oop\курсач\oopCourse — копия\obj\Debug\oopCourse.csproj.AssemblyReference.cache
+D:\oop\курсач\oopCourse — копия\obj\Debug\oopCourse.csproj.CoreCompileInputs.cache
+D:\oop\курсач\oopCourse — копия\obj\Debug\oopCourse.exe
+D:\oop\курсач\oopCourse — копия\obj\Debug\oopCourse.pdb
+D:\oop\курсач\oopCourse.2\bin\Debug\oopCourse.exe.config
+D:\oop\курсач\oopCourse.2\bin\Debug\oopCourse.exe
+D:\oop\курсач\oopCourse.2\bin\Debug\oopCourse.pdb
+D:\oop\курсач\oopCourse.2\obj\Debug\oopCourse.csproj.AssemblyReference.cache
+D:\oop\курсач\oopCourse.2\obj\Debug\oopCourse.csproj.CoreCompileInputs.cache
+D:\oop\курсач\oopCourse.2\obj\Debug\oopCourse.exe
+D:\oop\курсач\oopCourse.2\obj\Debug\oopCourse.pdb
+D:\oop\курсач\oopCourse1.1\oopCourse1\bin\Debug\oopCourse.exe.config
+D:\oop\курсач\oopCourse1.1\oopCourse1\bin\Debug\oopCourse.exe
+D:\oop\курсач\oopCourse1.1\oopCourse1\bin\Debug\oopCourse.pdb
+D:\oop\курсач\oopCourse1.1\oopCourse1\obj\Debug\oopCourse.csproj.AssemblyReference.cache
+D:\oop\курсач\oopCourse1.1\oopCourse1\obj\Debug\oopCourse.csproj.CoreCompileInputs.cache
+D:\oop\курсач\oopCourse1.1\oopCourse1\obj\Debug\oopCourse.exe
+D:\oop\курсач\oopCourse1.1\oopCourse1\obj\Debug\oopCourse.pdb
